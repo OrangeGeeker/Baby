@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Baby</string>
+  <string name="sleep">睡觉</string>
+  <string name="wake">起床</string>
+  <string name="poo">便便</string>
+  <string name="feed">喂奶</string>
+  <string name="nappy">尿布</string>
+  <string name="del">删除</string>
+  <string name="confirm_del">确定删除吗？</string>
+  <string name="cancel">取消</string>
+  <string name="confirm_modify">确定修改时间吗？</string>
+  <string name="modify">修改</string>
+</resources>

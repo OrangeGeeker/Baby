@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_statistic"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/secondaryDarkColor"
+    >
+
+  <TextView
+      android:id="@+id/tv_motion_header"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="20dp"
+      android:gravity="start"
+      android:paddingBottom="10dp"
+      android:paddingTop="10dp"
+      android:textColor="@color/secondaryTextLightColor"
+      android:textSize="18sp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      />
+
+</android.support.constraint.ConstraintLayout>
